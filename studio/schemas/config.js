@@ -73,7 +73,8 @@ export default {
                     "blue",
                     "green",
                     "red",
-                    "gray"
+                    "gray",
+                    "gold"
                 ]
             }
         },
